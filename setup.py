@@ -25,8 +25,8 @@ setup(
         'requests',
         'semantic_version<=2.6.0',
         'simplejson',
-        'strict_rfc3339',
+        'strict_rfc3339==0.7',
         'webargs',
-        'Werkzeug',
+        'Werkzeug==0.12.2',
     ]
 )
