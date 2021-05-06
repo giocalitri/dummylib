@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 analytics-python = "==1.2.9"
 flask = "<=0.12.2"
-flask-cors = "<=3.0.3"
+flask-cors = "<3.0.10"
 flask-script = "<=2.0.5"
 kombu = "*"
 hvac = "*"
